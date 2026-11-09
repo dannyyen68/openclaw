@@ -1,0 +1,4 @@
+.env
+*.json.key
+target/
+node_modules/
